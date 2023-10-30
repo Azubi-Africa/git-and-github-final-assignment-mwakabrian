@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  - Asanka-Hotel-Food-and-Beverages---Meal-Calculator             |  - My First Project             | https://github.com/mwakabrian/Asanka-Hotel-Food-and-Beverages---Meal-Calculator     |
+| 2 |  - Caesar-Cipher-Encryption            |  - Second Project            | https://github.com/mwakabrian/Caesar-Cipher-Encryption       |
+| 3 |  - Morgage-Calculator            |  -Third Project             | https://github.com/mwakabrian/Morgage-Calculator       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
